@@ -5,7 +5,7 @@
     </tstamp>
     <!-- 需要改成自己本地的 Jmeter 目录-->  
     <property name="jmeter.home" value="/usr/local/interfacetest/apache-jmeter-5.2.1" />
-	<property name="mail_to" value="liangyun.gu@jhlinux.com,ying.zhu@jhlinux.com/>  
+	<property name="mail_to" value="liangyun.gu@jhlinux.com,ying.zhu@jhlinux.com"/>  
     <property name="report.title" value="接口测试报告"/>  
     <property name="report.title" value="TestReport"/>
     <!-- jmeter生成jtl格式的结果报告的路径--> 
