@@ -29,7 +29,7 @@
           <collectionProp name="Arguments.arguments">
             <elementProp name="ip" elementType="Argument">
               <stringProp name="Argument.name">ip</stringProp>
-              <stringProp name="Argument.value">10.233.90.133</stringProp>
+              <stringProp name="Argument.value">10.233.96.119</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="port" elementType="Argument">
