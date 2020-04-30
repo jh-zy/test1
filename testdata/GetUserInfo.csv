@@ -1,0 +1,5 @@
+﻿caseNo,apiType,apiName,priority,url,method,purpose,parameter,expectValue
+U001,用户信息类,根据用户名查询用户信息,H,/user/byName,GET,用户名为空,,"""code"":0,""msg"":null,""data"":null"
+U002,用户信息类,根据用户名查询用户信息,H,/user/byName,GET,用户不存在,name=gly,"""code"":0,""msg"":null,""data"":null"
+U003,用户信息类,根据用户名查询用户信息,L,/user/byName,GET,查询Jack用户信息,name=Jack,"""code"":0,""msg"":null,""data"":{""name"":""Jack"",""address"":""nanjing"",""phone"":""18833028632""}"
+U004,用户信息类,根据用户名查询用户信息,H,/user/byName,GET,查询utest10信息,name=utest10,"""name"":""utest10"",""address"":""wuxi"""
