@@ -30,7 +30,7 @@
           <collectionProp name="Arguments.arguments">
             <elementProp name="datapath" elementType="Argument">
               <stringProp name="Argument.name">datapath</stringProp>
-              <stringProp name="Argument.value">/workspace/testdemo/testdata</stringProp>
+              <stringProp name="Argument.value">/workspace/test-demo/testdata</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="ip" elementType="Argument">
