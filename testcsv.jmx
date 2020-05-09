@@ -35,7 +35,7 @@
             </elementProp>
             <elementProp name="ip" elementType="Argument">
               <stringProp name="Argument.name">ip</stringProp>
-              <stringProp name="Argument.value">10.233.90.30</stringProp>
+              <stringProp name="Argument.value">10.233.96.136</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="port" elementType="Argument">
